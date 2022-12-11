@@ -5,6 +5,7 @@ Junior React Developer 🌱
 ### Technologies I use ⚡
 
 ✅ React (of course)
+
 ✅ JavaScript/Typescript
 
 ✅ Vite
