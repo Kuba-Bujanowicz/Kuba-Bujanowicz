@@ -1,12 +1,21 @@
 ### Hello, I am Kuba Bujanowicz 👋
+
 Junior React Developer 🌱
-## Technology I use
+
+### Technology I use ⚡
+
 ✅ React (of course)
+
 ✅ JavaScript/Typescript
+
 ✅ Vite
+
 ✅ yarn/npm
+
 ✅ Sass
+
 ✅ HTML5/CSS
+
 
 <!--
 **Kuba-Bujanowicz/Kuba-Bujanowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
