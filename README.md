@@ -1,11 +1,10 @@
-### Hello, I am Kuba Bujanowicz 👋
+## Hello, I am Kuba Bujanowicz 👋
 
 Junior React Developer 🌱
 
-### Technology I use ⚡
+### Technologies I use ⚡
 
 ✅ React (of course)
-
 ✅ JavaScript/Typescript
 
 ✅ Vite
