@@ -8,9 +8,9 @@ Junior React Developer 🌱
 
 ✅ JavaScript/Typescript
 
-✅ Vite
+✅ PHP
 
-✅ yarn/npm
+✅ Astro, Qwik
 
 ✅ Sass
 
