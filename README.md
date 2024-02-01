@@ -1,10 +1,10 @@
 ## Hello, I am Kuba Bujanowicz 👋
 
-Junior React Developer 🌱
+Software Developer 🌱
 
 ### Technologies I use ⚡
 
-✅ React (of course)
+✅ React
 
 ✅ JavaScript/Typescript
 
